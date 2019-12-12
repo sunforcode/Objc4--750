@@ -892,6 +892,7 @@
 				);
 				INSTALL_PATH = /usr/lib;
 				IS_ZIPPERED = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.14;
 				ORDER_FILE = "$(SRCROOT)/libobjc.order";
 				"ORDER_FILE[sdk=iphonesimulator*]" = "";
 				OTHER_CFLAGS = (
@@ -965,6 +966,7 @@
 				);
 				INSTALL_PATH = /usr/lib;
 				IS_ZIPPERED = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.14;
 				ORDER_FILE = "$(SRCROOT)/libobjc.order";
 				"ORDER_FILE[sdk=iphonesimulator*]" = "";
 				OTHER_CFLAGS = (
